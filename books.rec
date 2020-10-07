@@ -1,0 +1,49 @@
+%rec: Books
+%mandatory: Title
+%allowed: Author Year ISBN Owned Read Publisher Language Pages Edition Location Comment
+%type: Location enum lend home unknown
+%type: Owned enum Yes No
+%type: Read enum Yes Partly No
+%sort: Title
+%doc: List of my books
+
+Title: Hello World: How to be Human in the Age of the Machine
+Author: Hannah Fry
+ISBN: 1784163066
+ISBN: 978-1784163068
+Owned: No
+Read: No
+Publisher: Black Swan
+Language: English
+
+Title: Python 3
+Author: Michael Weigand
+ISBN: 978-3958457911
+Owned: Yes
+Read: No
+Publisher: mitp
+Language: German
+Edition: 7
+Year: 2018
+Location: home
+
+Title: Die letzten Rätsel der Mathematik
+Author: Ian Stewart
+Year: 2015
+Owned: Yes
+Read: Partly
+Publisher: Rowohlt
+Language: German
+Comment: No joy to read.
+
+Title: Road to Reality
+Author: Rodger Penrose
+Owned: Yes
+Read: Partly
+
+Title: Der Medicus
+Author: Noah Gordon
+Owned: Yes
+Read: Yes
+
+# End of books.rec
