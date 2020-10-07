@@ -7,5 +7,5 @@
 
 The repository fulfils the following purpose:
 
-1. Summerize my librabry and some kind of wish-list. If you want to by me a present. ;)
+1. Summerize my librabry and some kind of wish-list. If you want to buy me a present. ;)
 2. Learn to work with recutils to control the information.
