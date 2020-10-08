@@ -1,0 +1,21 @@
+%rec: Wishlist
+%allowed: Title Author ISBN Publisher Language Rank
+%typedef: Rank int
+%mandatory: Rank
+%sort: Rank
+
+Title: Hello World: How to be Human in the Age of the Machine
+Author: Hannah Fry
+ISBN: 978-1784163068
+Publisher: Black Swan
+Language: English
+Rank: 1
+
+Title: Hamlet
+Author: William Shakespeare
+ISBN: 978-3-15-018700-5
+Publisher: Reclam
+Language: English, German
+Rank: 9
+
+#End of wishlist.rec
