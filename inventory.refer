@@ -1,0 +1,78 @@
+# Inventory of books for use with `refer`
+#
+#%A     AUTHOR. The  name of an author.
+#%B     For  an  article, the title of the book.
+#%C     The place (city) of publication.
+#%D     YEAR. The date of publication.
+#%E     The editor of a book.
+#%G	US Government ordering number.
+#%I     The publisher (issuer).
+#%J     For an article in a journal, the name of the journal.
+#%K     KEYWORDS. Keywords to be used for searching.
+#%L     Label.
+#%N     Journal issue number.
+#%O     Other  information.
+#%P     Page number.  A range of pages can be specified as m-n.
+#%Q     The name of the author, if the author  is  not  a  person.
+#%R     Technical report number.
+#%S     Series name.
+#%T     TITLE. Title.
+#%V     Volume number of the journal or book.
+#%X     Annotation.
+
+%T Python 3
+%A Michael Weigand
+%X 978-3958457911
+%I mitp
+%D 2018
+
+%T Die letzten Rätsel der Mathematik
+%A Ian Stewart
+%D 2015
+%I Rowohlt
+
+%T Road to Reality
+%A Rodger Penrose
+
+%T Der Medicus
+%A Noah Gordon
+
+%T Mit Perl programmieren lernen
+%A Horst Eidenberger
+%A Elke Michlmayr
+%I dpunkt.verlag
+%D 2005
+%C Heidelberg
+
+%T Wirtschaftsinformatik, Teil: 1., Grundlagen und Anwendungen
+%A Hans Robert Hansen
+%A Gustaf Neumann
+%E F. X. Bea
+%E B. Friedl
+%E M. Schweitzer
+%I Lucius & Lucius
+%C Stuttgart
+%D 2005
+
+%T Wirtschaftsinformatik, Teil: 2., Informationstechnik
+%A Hans Robert Hansen
+%A Gustaf Neumann
+%E F. X. Bea
+%E B. Friedl
+%E M. Schweitzer
+%I Lucius & Lucius
+%C Stuttgart
+%D 2005
+
+%T Rise of the Warrior Cop, The Militarization of America's Police Forces
+%A Radley Balko
+%I PublicAffairs
+%C New York
+%D 2014
+
+%B Überwachtes Netz, Edward Snowden und der größte Überwachungsskandal der Geschichte
+%E Markus Beckedahl
+%E Andre Meister
+%I newthinking communications
+%C Berlin
+%D 2013
