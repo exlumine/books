@@ -1,5 +1,5 @@
 %rec: Wishlist
-%allowed: Title Author ISBN Publisher Language Rank
+%allowed: Title Author ISBN Publisher Language Info Rank
 %typedef: Rank int
 %mandatory: Rank
 %sort: Rank
@@ -53,6 +53,38 @@ Author: Ralph Johnson
 Author: John Vlissides
 Publisher: Addison-Wesley Professional
 ISBN: 0201633612
+
+Title: City of Golden Shadow
+Author: Tad Williams
+Publisher: DAW Books
+Year: 1996
+ISBN: 0-88677-710-0
+Info: Otherland 1
+Rank: 3
+
+Title: River of Blue Fire
+Author Tad Williams
+Publisher: DAW Books
+Year: 1998
+ISBN: 0-88677-777-1
+Info: Otherland 2
+Rank: 3
+
+Title: Mountain of Black Glass
+Author: Tad Williams
+Publisher: DAW Books
+Year: 1999
+ISBN: 0-88677-849-2
+Info: Otherland 3
+Rank: 3
+
+Title: Sea of Silver Light
+Author: Tad Williams
+Publisher: DAW Books
+Year: 2001
+ISBN: 0-88677-977-4
+Info: Otherland 4
+Rank: 3
 
 
 #End of wishlist.rec
